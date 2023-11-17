@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T19:41:17.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.3.2" etag="pBXRA4a-AhEjnwt8jTzy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T21:17:52.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JOkLrekZPvMn6_aSDn5r" version="21.3.2" type="github">
   <diagram name="Page-1" id="7rJiDSB39MhllVwo2wEZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-WoMMl7OlMX7O7KTdgy--7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="80" width="780" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="-WoMMl7OlMX7O7KTdgy--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-WoMMl7OlMX7O7KTdgy--7">
+          <mxGeometry width="780.0000000000001" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="-WoMMl7OlMX7O7KTdgy--6" value="Azure Cloud" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" vertex="1" parent="-WoMMl7OlMX7O7KTdgy--7">
+          <mxGeometry x="13.000000000000002" y="320" width="65" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-WoMMl7OlMX7O7KTdgy--9" value="" style="group" vertex="1" connectable="0" parent="-WoMMl7OlMX7O7KTdgy--7">
+          <mxGeometry x="40" y="60" width="299" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WoMMl7OlMX7O7KTdgy--8" value="Azure App Container" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=bottom;fillColor=#ECF3FB;strokeColor=#9ABCDD;labelPosition=center;verticalLabelPosition=top;" vertex="1" parent="-WoMMl7OlMX7O7KTdgy--9">
+          <mxGeometry width="299.00000000000006" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-WoMMl7OlMX7O7KTdgy--3" value="AccMan V2 API" style="rounded=1;fillColor=#FFFFFF;glass=0;shadow=0;fontSize=17;whiteSpace=wrap;html=1;fontStyle=1;align=center;horizontal=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;strokeColor=#6FA0CC;" vertex="1" parent="-WoMMl7OlMX7O7KTdgy--9">
+          <mxGeometry x="45.5" y="40" width="208.00000000000003" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
